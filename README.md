@@ -1,3 +1,5 @@
+# BBot Shooter
+
 CSC561 Principles of Computer Graphics, Department of Computer Science, North Carolina State University
 
 Our player tries to escape from Evil Otto and the other robots, and he's got powerups to help him! Customizable map files to design levels, custom made players/bots and custom made 8 bit music.
